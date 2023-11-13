@@ -1,0 +1,94 @@
+.texto1{font-family:arial;
+color:black;
+font-size:18px}
+
+.texto2{color:black;
+font-size:18px;
+text-align:center}
+
+.cajappal{width: 600pxpx;
+height:100px;
+background:#FDFEFE;
+margin:5px;
+}
+
+.cajatitulo{ width: 1500px;
+border:2px solid #200D23;
+height:100px;
+background: #FDEDEC  ;
+margin: 20px}
+
+.cajamenu{ width: 1600px;
+border:2px solid #200D23;
+height:55px;
+background:#FADBD8 ;
+margin: 15px}
+
+.cajasection{ width: 600px;
+height:1000px;
+background: #;
+margin-left:5px;
+margin-right:5px;
+padding: 40px;
+border:2px solid #200D23;
+float: left;
+clear: both}
+
+
+.cajaaside{
+width: 500px;
+height:1070px;
+background: #7FB3D5;
+margin:. 10px;
+padding: 2px;
+border:2px solid #200D23;
+display: inline-block;
+clear: both}
+
+
+.Foter{
+width:1310px;
+height:100px;
+background:#AED6F1;
+margin: 15px}
+. ul{list-style:none;
+margin:0;
+padding:0;
+
+}
+
+ul{
+list-style: none}
+
+#navegacion  {
+	margin:0;
+padding:0;}
+
+#navegacion #iteam {
+	float: left;
+}
+
+#navegacion #iteam a{
+	background: white;
+	color: blue;
+	padding: 5xp 20px;
+	display:block;
+text-decoration: none;}
+
+#navegacion #submenu {
+	display: none;
+	position: absolute;
+}
+#navegacion #iteam a: hover{
+	background: #000;
+color:write;}
+
+
+#navegacion #iteam: hover #submenu {
+display:block;}
+
+
+  
+  
+
+	
